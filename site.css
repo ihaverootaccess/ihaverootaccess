@@ -1,32 +1,117 @@
 h1 {    
-    font-family: verdana, sans-serif, Times New Roman;
-    font-size: 70px;
-    text-align: left;
+    font-family: Mistral;
+    font-size: 150px;
+    text-align: center;
     color: darkslategray;
+    padding-top: 50px;
+    padding-bottom: 0;
 }
 
 h3 {
-    font-family: verdana, sans-serif, Times New Roman;
-    font-size: 50px;
-    text-align: left;
+    font-family: Mistral;
+    font-size: 40px;
+    font-weight: 10;
+    text-align: center;
+    color: burlywood;
+    margin: -90px;
+}
+
+.nav a {
+    display: block;
+    color: white;
+    font-family: Mistral;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 16px;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: rgba(0,0,0,0.2);
+    border: none;
+    list-style-type: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+}
+
+.nav {
+    margin-top: 10%;
+    margin-right: 60%;
+    margin-left: 5%;
+    position: fixed;
+}
+.nav a:hover {
+    background-color: whitesmoke;
     color: burlywood;
 }
 
+
+.header {
+    margin-left: 20%;
+    margin-right: 30%;
+    margin-top: 10%;
+    width: 60%;
+    height: 35%;
+    margin-bottom: auto;
+    background-color: rgba(256,256,256,0.9);
+    border-bottom: 25px solid;
+    border-bottom-color: rgba(10,10,10, 0.7);
+    
+}
+
+#head1{
+    background-color: white;
+    width: 55%;
+    padding: 0;
+    margin-top: 30%;
+    margin-left: 20%;
+    margin-right: 30%;
+    margin-bottom: -12%;
+    
+}
+
+#head1 h1{
+    font-size: 200px;
+}
+
+#headb1 {
+    background-image: url(img/greatness-ad-campaigns-for-digital-and-print-marketing-by-th.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0;
+    height: 100%;
+    width: auto;
+    margin-bottom: auto;
+    border: none;
+}
+
+#head2{
+    background-color: white;
+    width: 55%;
+    padding: 5px;
+    margin-top: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 30%; 
+}
+
+#head2 h1{
+    font-size: 200px;
+}
+
 p {
-    font-family: verdana, sans-serif, Times New Roman;
-    font-size: 30px;
+    font-family: Mistral;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    color: burlywood;
+    padding: 40px;
     text-align: justify;
-    color: darkslategray;
 }
 
 Body {
-    background-color: white;
-    padding-right: 100px;
-}
-
-.home_buttons{
-    margin-left: 75%;
-    
+    background-image: url(img/sander-zelhem-green-passage_2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .MainMenu {
@@ -42,28 +127,6 @@ Body {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
     box-sizing: border-box;
 }
-    
-
-li a {
-    display: block;
-    color: #000;
-    font-family: verdana, sans-serif, Times New Roman;
-    font-weight: 700;
-    font-size: 20px;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #555;
-    color: white;
-}
-
-.tab {
-    list-style-type: none;
-    float: left;
-}
-
 
 .active {
     background-color: #4CAF50;
@@ -82,14 +145,6 @@ table {
     margin-bottom: 100px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
 }
-
-.Stable {
-    width: 100%;
-    border: none;
-    margin-bottom: 10px;
-    box-shadow: none;
-}
-
 th {
     border-bottom: 3px solid;
     border-color: cadetblue;
@@ -100,21 +155,12 @@ th {
 tr, td {
     padding: 10px;
     width: 30%;
+    border-right: 10px solid;
+    border-color: cadetblue;
     font-family:  verdana, sans-serif, Times New Roman;
     font-size: 25px;
-    border: none;
-    border-right: 5px solid;
-    border-color: cadetblue;
 }
 
-.Stable td {
-    padding: 10px;
-    width: 30%;
-    font-family:  verdana, sans-serif, Times New Roman;
-    font-size: 25px;
-    border-right: none;
-    text-align: center;
-}
 
 .stone {
     background-color: whitesmoke;
@@ -187,17 +233,24 @@ input {
 
 button {
     font-family: verdana, sans-serif, Times New Roman;
-    font-size: 20px;
+    font-size: 50px;
     font-weight: 600;
-    color: cadetblue;
-    background-color: whitesmoke;
-    border-color: white;
-    border: 2px solid;
+    color: darkslategray;
+    background-color: rgba(255,255,255,0.8);
+    border: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.8);
+    float: left;
+    margin: 20px;
+}
+
+.buttons {
+    margin-left: 38%;
 }
 
 button:hover {
+    background-color: white;
     border-color: cadetblue;
-    border: 4px solid;
+    border-bottom: 7px solid;
 }
 
 
