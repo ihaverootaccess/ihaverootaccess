@@ -53,6 +53,7 @@ h3 {
     background-color: rgba(256,256,256,0.9);
     border-bottom: 25px solid;
     border-bottom-color: rgba(10,10,10, 0.7);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
     
 }
 
@@ -64,23 +65,11 @@ h3 {
     margin-left: 20%;
     margin-right: 30%;
     margin-bottom: -12%;
-    
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
 }
 
 #head1 h1{
     font-size: 200px;
-}
-
-#headb1 {
-    background-image: url(img/greatness-ad-campaigns-for-digital-and-print-marketing-by-th.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    margin-top: 0;
-    height: 100%;
-    width: auto;
-    margin-bottom: auto;
-    border: none;
 }
 
 #head2{
@@ -108,7 +97,8 @@ p {
 }
 
 Body {
-    background-image: url(img/sander-zelhem-green-passage_2.jpg);
+    background-image: url(img/greatness-ad-campaigns-for-digital-and-print-marketing-by-th.png);
+    background-color: beige;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
