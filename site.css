@@ -1,0 +1,423 @@
+h1 {    
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 70px;
+    text-align: left;
+    color: darkslategray;
+}
+
+h3 {
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 50px;
+    text-align: left;
+    color: burlywood;
+}
+
+p {
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 30px;
+    text-align: justify;
+    color: darkslategray;
+}
+
+Body {
+    background-color: white;
+    padding-right: 100px;
+}
+
+.home_buttons{
+    margin-left: 75%;
+    
+}
+
+.MainMenu {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #f1f1f1;
+    float: left;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+    box-sizing: border-box;
+}
+    
+
+li a {
+    display: block;
+    color: #000;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+.tab {
+    list-style-type: none;
+    float: left;
+}
+
+
+.active {
+    background-color: #4CAF50;
+}
+
+.two {
+    float: right;
+    height: 100%;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    border: 3px solid;
+    border-color: cadetblue;
+    margin-bottom: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+}
+
+.Stable {
+    width: 100%;
+    border: none;
+    margin-bottom: 10px;
+    box-shadow: none;
+}
+
+th {
+    border-bottom: 3px solid;
+    border-color: cadetblue;
+    padding: 10px;
+    width: 30%;
+}
+
+tr, td {
+    padding: 10px;
+    width: 30%;
+    font-family:  verdana, sans-serif, Times New Roman;
+    font-size: 25px;
+    border: none;
+    border-right: 5px solid;
+    border-color: cadetblue;
+}
+
+.Stable td {
+    padding: 10px;
+    width: 30%;
+    font-family:  verdana, sans-serif, Times New Roman;
+    font-size: 25px;
+    border-right: none;
+    text-align: center;
+}
+
+.stone {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.stone:hover {
+    border: 1px solid;
+    border-color: cornsilk;
+}
+
+.stone img {
+    width: 100%;
+    height: auto; 
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    color: cadetblue;
+    font-weight: 600;
+}
+
+
+.gallery {
+    width: 20%;
+    margin: 10px; 
+    height: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    float: left;
+}
+
+form {
+    width: 60%;
+    padding: 50px;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    font-weight: 600;
+    color: darkslategray;
+    border-bottom: 10px solid;
+    border-color: white;
+    background-color: whitesmoke;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    margin-bottom: 100px;
+}
+
+textarea {
+    padding: 10px;
+    background-color: whitesmoke;
+    color: cadetblue;
+    font-size: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    border-bottom: 3px solid;
+    border: white;
+}
+
+input {
+    width: 100%;
+    background-color: white;
+    border-color: white;
+    border: 2px solid;
+    padding: 10px;
+    color: cadetblue;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+}
+
+button {
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    font-weight: 600;
+    color: cadetblue;
+    background-color: whitesmoke;
+    border-color: white;
+    border: 2px solid;
+}
+
+button:hover {
+    border-color: cadetblue;
+    border: 4px solid;
+}
+
+
+@media only screen and (max-width: 1200px){
+    .MainMenu {
+    width: 30%;
+    float: left;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */    
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    p {
+        font-size: 15px;
+        width:inherit;
+    }
+
+    @media only screen and (max-width: 1200px){
+    h1 {
+        font-size: 35px;
+        width: inherit;
+    }
+}
+    
+    @media only screen and (max-width: 1200px){
+    h3 {
+        font-size: 25px;
+        width: inherit;
+    }
+}     
+
+@media only screen and (max-width: 1200px){
+    .two {
+    width: 60%;
+    float: right;
+    height: 100%; /* Full height */
+     /* Make it stick, even on scroll */
+    /* Enable scrolling if the sidenav has too much content */
+        }    
+}
+    
+    @media only screen and (max-width: 1200px){
+.gallery {
+    width: 60%;
+    margin: 5px; 
+    height: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    float: left;
+}
+    }
+    
+    @media only screen and (max-width: 1200px){    
+    form {
+    width: 100%;
+    padding: 50px;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    font-weight: 600;
+    color: darkslategray;
+    border-bottom: 10px solid;
+    border-color: white;
+    background-color: whitesmoke;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    margin-bottom: 100px;
+    }
+}
+    
+    @media only screen and (max-width: 1200px){    
+    textarea {
+    padding: 10px;
+    width: 95%;    
+    background-color: whitesmoke;
+    color: cadetblue;
+    font-size: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    border-bottom: 3px solid;
+    border: white;
+    }
+}
+    
+    
+
+@media only screen and (max-width: 500px) {
+    .MainMenu {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        width: 100%;
+        padding: 0px;
+        margin: 0;
+        text-align: justify;
+        
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    p {
+        font-size: 12px;
+        width:inherit;
+    }
+
+@media only screen and (max-width: 500px){
+    h1 {
+        font-size: 25px;
+        width: inherit;
+    }
+}
+    
+@media only screen and (max-width: 500px){
+    h3 {
+        font-size: 15px;
+        width: inherit;
+    }
+        
+}    
+
+@media only screen and (max-width: 500px){
+    .two {
+        width: 95%;
+    }
+        
+}    
+
+@media only screen and (max-width: 500px){
+     {
+        font-size: 15px;
+        width: inherit;
+    }
+        
+}
+
+@media only screen and (max-width: 500px){    
+    .stone {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    float: left;
+    }
+}
+    @media only screen and (max-width: 500px){
+.stone:hover {
+    border: 1px solid;
+    border-color: cornsilk;
+}
+    }
+
+    @media only screen and (max-width: 500px){
+.stone img {
+    width: 100%;
+    height: auto; 
+}
+    }
+
+    @media only screen and (max-width: 500px){
+.desc {
+    padding: 10px;
+    text-align:justify;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    color: cadetblue;
+    font-weight: 600;
+}
+    }
+
+    @media only screen and (max-width: 500px){
+.gallery {
+    width: 33%;
+    margin: 35px; 
+    height: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    float: left;
+}
+    }
+
+ @media only screen and (max-width: 500px){    
+    form {
+    width: 80%;
+    padding: 4px;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    font-weight: 600;
+    color: darkslategray;
+    border-bottom: 10px solid;
+    border-color: white;
+    background-color: whitesmoke;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    margin-bottom: 100px;
+    }
+}
+    
+ @media only screen and (max-width: 500px){    
+    textarea {
+    padding: 10px;
+    width: 92%;    
+    background-color: whitesmoke;
+    color: cadetblue;
+    font-size: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    border-bottom: 3px solid;
+    border: white;
+    }
+}
+
+@media only screen and (max-width: 500px){        
+    input {
+    width: 90%;
+    background-color: white;
+    border-color: white;
+    border: 2px solid;
+    padding: 10px;
+    color: cadetblue;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 20px;
+    }
+}
+/* For mobile phones: */
