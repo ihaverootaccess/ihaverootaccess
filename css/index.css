@@ -1,0 +1,228 @@
+h2{
+	 font-family: Lucida Console;
+	 font-size: 30px;
+	 text-align: Center;
+     padding-top: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.gallery {
+    margin-left: 45px;
+    padding-left: 90px;
+    padding-right: 80px;
+    
+}
+
+.stone {
+    border: 1px Solid;
+    border-color: white;
+    margin: 8px;
+    background-color: white;
+    width: 30%;
+    height: auto;
+    float: left;
+}
+.stone:hover {
+    border: 1px solid;
+}
+
+.stone img {
+    width: 100%;
+    height: auto; 
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: Lucida Console;
+    font-size: 28px;
+    color: black;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+    
+}
+
+#li1 {
+    border: none;
+    font-size: 20px;
+    text-align: left;
+    font-family: Lucida Console;
+    text-decoration: none;
+    list-style-type: none;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    margin-right: 70%;
+    color: black;
+    margin-left: 100px;
+    margin-top: 40%;
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+}
+
+h3 {
+    font-family: Lucida Console;
+    font-size: 36px;
+    text-align: Center;
+}
+
+h1 {
+	font-family: Lucida Console 93;
+	font-weight: bold;
+	text-align: Center;
+    padding-bottom: 20px;
+    font-size: 80px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+
+#Gh1 {
+    text-align: left;
+    padding-left: 20px;  
+    margin-bottom: 2%;
+}
+
+p {
+	font-family: Lucida Console;
+	font-size: 28px;
+	text-align: Center;
+    padding: 20px;
+    padding-top: 15px;
+    background-color: white;
+}
+
+.content{
+    border: 6px solid;
+    border-color: black;
+	margin: 100px;
+    color: black;
+}
+.cont1 {
+    background-image: url(../images/IMG_20170815_130934444.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+.cont2 {
+    background-image: url(../images/IMG_20170815_130100659.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin: 0px;
+}
+
+.img {
+    background-color: rgba(0, 0, 0, 0.2); 
+    margin-right: 0%;
+    margin-left: 2.4%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border-right: 10px solid rgba(0, 0, 0, 0.5);
+    width: 540px;     
+    height: 400px;
+    padding: 10px;
+}
+
+.Images {
+    margin: 50px;
+}
+
+#img1 {
+    margin: 1.8%;
+}
+
+#footer {
+    padding: 20px;
+}
+
+#Banner1 {
+    margin-top: 1%;
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-bottom: 0.2%;
+    color: black;
+    background-color: white;
+    border-right: 1px solid;
+    font-family: Lucida Console;
+    font-size: 40px;
+    text-decoration: none;  
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+}
+
+#Banner2 {
+    margin-top: 1%;
+    margin-left: 100px;
+    margin-right: 700px;
+    margin-bottom: 0.2%;
+    color: black;
+    background-color: white;
+    font-family: Lucida Console;
+    font-size: 40px;
+    text-decoration: none;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+}
+
+#Banner3 {
+    margin-top: 1%;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: black;
+    background-color: white;
+    font-family: Lucida Console;
+    font-size: 40px;
+    text-decoration: none; 
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
+}
+
+hr {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 3px;
+    border-bottom: 10px;
+    border-top: 10px;
+}
+
+
+#BackgroundInd {
+    background-image: url(../images/_20170815_124030.JPG);
+    background-attachment: fixed;
+    background-size: cover;
+    margin: -100px;
+    padding: 5%;
+}
+
+#backgroundXy {
+    background-color: #f8f8f8;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#BackgroundGen {
+    background-color: white;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#Be {
+    background-image: url(../images/other/IMG_20170829_080640830.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: -100px;
+    padding-bottom: 10%;
+    padding-top: 7%;
+}
+
+#Kind {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #f8f8f8;;
+}
