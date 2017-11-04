@@ -13,7 +13,7 @@ h3 {
     font-weight: 10;
     text-align: center;
     color: burlywood;
-    margin: 3px;
+    margin: -30px;
 }
 
 .nav a {
@@ -40,6 +40,10 @@ h3 {
 .nav a:hover {
     background-color: whitesmoke;
     color: burlywood;
+}
+.nav h3{
+    margin: -60px;
+    margin-bottom: -120px;
 }
 
 
@@ -235,7 +239,7 @@ button {
 }
 
 .buttons {
-    margin-left: 38%;
+    margin-left: 31%;
 }
 
 button:hover {
