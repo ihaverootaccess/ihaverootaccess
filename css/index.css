@@ -226,3 +226,73 @@ hr {
     margin-right: 50px;
     background-color: #f8f8f8;;
 }
+
+
+
+/* screen size for phones*/
+
+
+
+@media only screen and (max-width: 700px) {
+    #backgroundXy {
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+        margin: 0;
+        text-align: justify;
+        
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .content {
+        width: 100%;
+        padding-bottom: 20px;
+        padding: 0;
+        margin: 0;
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .gallery {
+        width: 100%;
+        padding: 40px;
+        margin: 0;
+        margin-bottom: 30px;
+    }     
+}
+
+
+@media only screen and (max-width: 700px) {
+    p {
+        font-size: 12px;
+        width:inherit;
+    }
+
+@media only screen and (max-width: 700px){
+    h1 {
+        font-size: 25px;
+        width: inherit;
+    }
+}
+    
+@media only screen and (max-width: 700px){
+    h3 {
+        font-size: 15px;
+        width: inherit;
+    }
+        
+}    
+
+@media only screen and (max-width: 700px){    
+    .stone {
+    width: 100%;
+    height: auto;
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;    
+    }
+}
