@@ -1,5 +1,5 @@
 h2{
-	 font-family: Lucida Console;
+	 font-family: verdana, sans-serif, Times New Roman;
 	 font-size: 30px;
 	 text-align: Center;
      padding-top: 20px;
@@ -11,18 +11,18 @@ a {
 }
 
 .gallery {
-    margin-left: 45px;
-    padding-left: 90px;
-    padding-right: 80px;
-    
+    margin: 0;
+    padding: 0;
 }
 
 .stone {
     border: 1px Solid;
     border-color: white;
-    margin: 8px;
+    margin: 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
     background-color: white;
-    width: 30%;
+    width: 100%;
     height: auto;
     float: left;
 }
@@ -36,40 +36,49 @@ a {
 }
 
 .desc {
-    padding: 15px;
+    padding: 20px;
+    font-weight: 600;
     text-align: center;
-    font-family: Lucida Console;
-    font-size: 28px;
+    font-family: verdana, sans-serif, Times New Roman;
+    font-size: 30px;
     color: black;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
     
 }
 
 #li1 {
+    color: black;
     border: none;
-    font-size: 20px;
+    font-size: 40px;
     text-align: left;
-    font-family: Lucida Console;
+    font-family: verdana, sans-serif, Times New Roman;
     text-decoration: none;
     list-style-type: none;
-    padding-bottom: 4px;
-    padding-top: 4px;
-    margin-right: 50%;
-    color: black;
-    margin-left: 145px;
-    margin-top: 45%;
+    margin: 5%;
+    margin-left: 10px;
+    float: none;
     background-color: white;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
 }
 
+#li1 ol {
+    float: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-right: 0;
+    padding-top: 100px;
+    padding-bottom: 0;
+    padding-right: 30px;
+}
+
 h3 {
-    font-family: Lucida Console;
+    font-family: verdana, sans-serif, Times New Roman;
     font-size: 36px;
     text-align: Center;
 }
 
 h1 {
-	font-family: Lucida Console 93;
+	font-family: verdana, sans-serif, Times New Roman;
 	font-weight: bold;
 	text-align: Center;
     padding-bottom: 20px;
@@ -86,7 +95,7 @@ h1 {
 }
 
 p {
-	font-family: Lucida Console;
+	font-family: verdana, sans-serif, Times New Roman;
 	font-size: 28px;
 	text-align: Center;
     padding: 20px;
@@ -95,6 +104,7 @@ p {
 }
 
 .content{
+    font-family: verdana, sans-serif, Times New Roman;
     border: 6px solid;
     border-color: black;
 	margin: 100px;
@@ -139,6 +149,9 @@ p {
 }
 
 #footer {
+    float: left;
+    width: 80%;
+    margin: 100px;
     padding: 20px;
 }
 
@@ -150,7 +163,7 @@ p {
     color: black;
     background-color: white;
     border-right: 1px solid;
-    font-family: Lucida Console;
+    font-family: verdana, sans-serif, Times New Roman;
     font-size: 40px;
     text-decoration: none;  
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
@@ -163,7 +176,7 @@ p {
     margin-bottom: 0.2%;
     color: black;
     background-color: white;
-    font-family: Lucida Console;
+    font-family: verdana, sans-serif, Times New Roman;
     font-size: 40px;
     text-decoration: none;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
@@ -175,7 +188,7 @@ p {
     margin-right: 30%;
     color: black;
     background-color: white;
-    font-family: Lucida Console;
+    font-family: verdana, sans-serif, Times New Roman;
     font-size: 40px;
     text-decoration: none; 
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.3);
@@ -225,74 +238,4 @@ hr {
     margin-left: 50px;
     margin-right: 50px;
     background-color: #f8f8f8;;
-}
-
-
-
-/* screen size for phones*/
-
-
-
-@media only screen and (max-width: 700px) {
-    #backgroundXy {
-        width: 100%;
-        height: 100%;
-        padding: 0px;
-        margin: 0;
-        text-align: justify;
-        
-    }
-}
-
-@media only screen and (max-width: 700px) {
-    .content {
-        width: 100%;
-        padding-bottom: 20px;
-        padding: 0;
-        margin: 0;
-        margin-bottom: 20px;
-        text-align: justify;
-    }
-}
-
-@media only screen and (max-width: 700px){
-    .gallery {
-        width: 100%;
-        padding: 40px;
-        margin: 0;
-        margin-bottom: 30px;
-    }     
-}
-
-
-@media only screen and (max-width: 700px) {
-    p {
-        font-size: 12px;
-        width:inherit;
-    }
-
-@media only screen and (max-width: 700px){
-    h1 {
-        font-size: 25px;
-        width: inherit;
-    }
-}
-    
-@media only screen and (max-width: 700px){
-    h3 {
-        font-size: 15px;
-        width: inherit;
-    }
-        
-}    
-
-@media only screen and (max-width: 700px){    
-    .stone {
-    width: 100%;
-    height: auto;
-    float: right;
-    margin: 0;
-    padding: 0;
-    margin-bottom: 30px;    
-    }
 }
