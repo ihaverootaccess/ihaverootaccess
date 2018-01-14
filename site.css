@@ -51,7 +51,7 @@ h3 {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10%;
-    width: 70%;
+    width: 50%;
     height: 10%;
     margin-bottom: auto;
     background-color: rgba(256,256,256,0.9);
@@ -64,11 +64,12 @@ h3 {
 #head1{
     background-color: white;
     width: 100%;
+    height:auto;
     padding: 0;
     margin-top: 30%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: -40%;
+    margin-bottom: 20%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
 }
 
