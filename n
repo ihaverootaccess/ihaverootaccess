@@ -1,0 +1,173 @@
+[33mcommit cc15ac926915c72d4eb5b3e8420c7ff257c5ef45[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 09:10:00 2018 +0200
+
+    Initial commit
+
+[33mcommit 49e15172875cd3c039671d00745672dd3519a706[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 09:04:04 2018 +0200
+
+    Initial commit
+
+[33mcommit 22df48a15b37425d508bc48aa9df038fa765ff64[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 08:59:44 2018 +0200
+
+    Initial commit
+
+[33mcommit 4824f099bc0c38fa836594c5e2fd87950f8a3ab3[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 08:52:57 2018 +0200
+
+    Initial commit
+
+[33mcommit e5a1bf29fa7fd246f638bf07e70e19814fd6a71c[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 08:48:17 2018 +0200
+
+    Initial commit
+
+[33mcommit a95fdc2cc42ab9f338546444f39acf483499b6e7[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 08:42:58 2018 +0200
+
+    Initial commit
+
+[33mcommit 93996f8cdd32bfb128f6db1aded363fd2c30cde2[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Sun Jan 14 08:32:17 2018 +0200
+
+    Initial commit
+
+[33mcommit 8ad6e7647a3dea4cdef55798f8c2a7ed0f4faaea[m
+Author: root <root@localhost.localdomain>
+Date:   Sun Nov 5 14:09:20 2017 -0500
+
+    Initial commit
+
+[33mcommit 04fc1ce354dedff82276aa94af5ff4162ef72b4a[m
+Author: root <root@localhost.localdomain>
+Date:   Sun Nov 5 13:28:06 2017 -0500
+
+    Initial commit
+
+[33mcommit 081ea02211b1989cde7bd8a868294dc0fb80f146[m
+Author: root <root@localhost.localdomain>
+Date:   Sun Nov 5 12:16:51 2017 -0500
+
+    Initial commit
+
+[33mcommit 7198c006968409bd883b9718afcb8bdefd74b17d[m
+Author: root <root@localhost.localdomain>
+Date:   Sun Nov 5 12:10:12 2017 -0500
+
+    Initial commit
+
+[33mcommit 5b5d730c9201beec0c0c6946853a0287686b8100[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 04:51:01 2017 -0400
+
+    Initial commit
+
+[33mcommit 9c92c78462d40f1a4003af93ee9c19ab4fc6773b[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 04:23:17 2017 -0400
+
+    Initial commit
+
+[33mcommit 5207a49240521867a5538a56964b76f66919a482[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:30:00 2017 -0400
+
+    Initial commit
+
+[33mcommit 84cdaacc2a713a743ae07aca65261f736440dd43[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:13:36 2017 -0400
+
+    Initial commit
+
+[33mcommit 01b00ab2155263b6adaa3469aa37e0b211e012a0[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:12:37 2017 -0400
+
+    Initial commit
+
+[33mcommit 576b945ec5ed4c3eb4487f975b1c28f868f6fb5d[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:11:09 2017 -0400
+
+    Initial commit
+
+[33mcommit b7911749c90725b26587d53b74e5290028d5c1d9[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:09:17 2017 -0400
+
+    Initial commit
+
+[33mcommit d3ae7edcf314e7021434b21e716029a7511bf862[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:07:36 2017 -0400
+
+    Initial commit
+
+[33mcommit d188479bb4a6d31a9bd0da0da263a4385f5c29b5[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 02:03:45 2017 -0400
+
+    Initial commit
+
+[33mcommit cbc8df16ce90333a40c36adb75e0baebd1e059d0[m
+Author: root <root@localhost.localdomain>
+Date:   Sat Nov 4 01:59:23 2017 -0400
+
+    Initial commit
+
+[33mcommit a0c9d47c5c25d05a4cb12949c9a83ab340719f9b[m
+Author: root <root@localhost.localdomain>
+Date:   Thu Nov 2 06:47:31 2017 -0400
+
+    initial commit
+
+[33mcommit 8c14ca7e5f9bd2dfd7a9a664a980316b5ed15ef7[m
+Author: root <root@localhost.localdomain>
+Date:   Thu Nov 2 06:36:59 2017 -0400
+
+    initial commit
+
+[33mcommit 59efb0c2e529f447e28c04f81749ea61fa04f5c9[m
+Author: root <root@localhost.localdomain>
+Date:   Thu Nov 2 06:26:50 2017 -0400
+
+    initial commit
+
+[33mcommit 6bdd47d384edadc1b8f7b8c6e4e3bba9f8f9e3ef[m
+Author: root <root@localhost.localdomain>
+Date:   Thu Nov 2 06:18:18 2017 -0400
+
+    initial commit
+
+[33mcommit 7aa0478ff5be633ba70b5eec412ac38a6268a14b[m
+Author: root <root@localhost.localdomain>
+Date:   Thu Nov 2 05:57:19 2017 -0400
+
+    initial commit
+
+[33mcommit 621493c82679b127962c296866ffbbdf2b4dfcbb[m
+Author: fsociety.r00t <pukutamwanza@gmail.com>
+Date:   Thu Nov 2 05:52:23 2017 -0400
+
+    Delete CNAME
+
+[33mcommit e94bc122ee276e6cf7c59b2aab4dca0824c366ca[m
+Author: fsociety.r00t <pukutamwanza@gmail.com>
+Date:   Thu Nov 2 10:33:41 2017 +0200
+
+    Create CNAME
+
+[33mcommit d3e40b54ca64c5b9ef639ce1aece56e14ccb61cc[m
+Author: ihaverootaccess <pukutamwanza@gmail.com>
+Date:   Mon Aug 15 10:42:13 2016 +0200
+
+    Initial commit
