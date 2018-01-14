@@ -52,7 +52,7 @@ h3 {
     margin-right: 10%;
     margin-top: 10%;
     width: 80%;
-    height: 20%;
+    height: 10%;
     margin-bottom: auto;
     background-color: rgba(256,256,256,0.9);
     border-bottom: 25px solid;
@@ -63,18 +63,18 @@ h3 {
 
 #head1{
     background-color: white;
-    width: 80%;
+    width: 90%;
     padding: 0;
     margin-top: 30%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: -5%;
+    margin-bottom: -20%;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
 }
 
 p {
     font-family: Mistral;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 600;
     color: burlywood;
     padding: 40px;
